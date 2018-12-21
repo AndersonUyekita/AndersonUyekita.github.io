@@ -6,7 +6,7 @@ A brief introduction to the Linux Command Line.
 
 * Dedication   : 5 hours
 * Start        : 20/12/2018
-* End (Planned): 20/12/2018
+* End          : 20/12/2018
 * Title        : Linux Command Line Basics
 * COD          : UD595
     * **Instructor:** Philip Mallory
