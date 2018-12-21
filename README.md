@@ -1,4 +1,4 @@
-# UU123 - Linux Command Line Basics
+# UD595 - Linux Command Line Basics
 
 A brief introduction to the Linux Command Line.
 
@@ -12,6 +12,13 @@ A brief introduction to the Linux Command Line.
     * **Instructor:** Philip Mallory
     * **Instructor:** Karl Krueger
 
+#### Related Courses
+
+* [UD775 - How to use Git and Github][rel_1]
+* [UD299 - Configuring Linux Web Servers][rel_2]
+
+[rel_1]: https://classroom.udacity.com/courses/ud775
+[rel_2]: https://classroom.udacity.com/courses/ud299
 
 ## Objectivies
 
