@@ -22,7 +22,7 @@ Finish this course in 5 hours, and take notes.
 * Chapter 01 - Linux Command Line Basics
     * Lesson 01 - Get Into the Shell
     * Lesson 02 - Shell Commands
-    * Lesson 02 - The Linux Filesystem
+    * Lesson 03 - The Linux Filesystem
 
 
 #### Repository Structure
